@@ -6,7 +6,7 @@ public class BestOfTwo {
         while( t-- > 0 ) {
             int x = scn.nextInt();
             int y = scn.nextInt();
-            System.out.println( Math.max( x, y) );//
+            System.out.println( Math.max( x, y) );
         }
     }
 }
